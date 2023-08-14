@@ -1,0 +1,14 @@
+https://metal-flea-041.notion.site/LIVE-CRUD-Java-Spring-77fc8531bdb74a9b96a126736a0c7ce4
+
+NOTION DA AMIGA LÁ
+
+https://www.youtube.com/watch?v=tP6wtEaCnSI
+
+Link da Aula para continuidade...
+
+FAZER CURSO DE POSTGRESQL
+
+
+@GetMapping
+
+Pegando uma requisição no Controller
